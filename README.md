@@ -28,5 +28,12 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84"/>
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOWSTRINGHERO)](https://github.com/BOWSTRINGHERO/github-readme-stats)
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOWSTRINGHERO&layout=compact)](https://github.com/BOWSTRINGHERO)
+
+</br>
+
+[![BOWSTRINGHERO's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOWSTRINGHERO)](https://github.com/BOWSTRINGHERO/github-readme-stats)
+
 </div>
