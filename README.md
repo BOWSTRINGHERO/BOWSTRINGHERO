@@ -1,3 +1,5 @@
+<div>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Focus%20On%20Your%20Target&fontSize=70)
 <br/><br/><br/><br/><br/>
 
@@ -26,4 +28,5 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84"/>
 
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowstringhero&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOWSTRINGHERO)](https://github.com/anuraghazra/github-readme-stats)
+</div>
